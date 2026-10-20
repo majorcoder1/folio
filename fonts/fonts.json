@@ -1,0 +1,834 @@
+{
+ "Abril Fatface": {
+  "category": "serif",
+  "files": [
+   "AbrilFatface-Regular.ttf"
+  ],
+  "folder": "Abril_Fatface",
+  "licence": "OFL.txt"
+ },
+ "Alegreya": {
+  "category": "serif",
+  "files": [
+   "Alegreya-Regular.ttf",
+   "Alegreya-Bold.ttf",
+   "Alegreya-Italic.ttf",
+   "Alegreya-BoldItalic.ttf"
+  ],
+  "folder": "Alegreya",
+  "licence": "OFL.txt"
+ },
+ "Alex Brush": {
+  "category": "script",
+  "files": [
+   "AlexBrush-Regular.ttf"
+  ],
+  "folder": "Alex_Brush",
+  "licence": "OFL.txt"
+ },
+ "Alfa Slab One": {
+  "category": "serif",
+  "files": [
+   "AlfaSlabOne-Regular.ttf"
+  ],
+  "folder": "Alfa_Slab_One",
+  "licence": "OFL.txt"
+ },
+ "Allura": {
+  "category": "script",
+  "files": [
+   "Allura-Regular.ttf"
+  ],
+  "folder": "Allura",
+  "licence": "OFL.txt"
+ },
+ "Amatic SC": {
+  "category": "script",
+  "files": [
+   "AmaticSC-Regular.ttf",
+   "AmaticSC-Bold.ttf"
+  ],
+  "folder": "Amatic_SC",
+  "licence": "OFL.txt"
+ },
+ "Anton": {
+  "category": "sans",
+  "files": [
+   "Anton-Regular.ttf"
+  ],
+  "folder": "Anton",
+  "licence": "OFL.txt"
+ },
+ "Archivo Black": {
+  "category": "sans",
+  "files": [
+   "ArchivoBlack-Regular.ttf"
+  ],
+  "folder": "Archivo_Black",
+  "licence": "OFL.txt"
+ },
+ "Arvo": {
+  "category": "serif",
+  "files": [
+   "Arvo-Regular.ttf",
+   "Arvo-Italic.ttf",
+   "Arvo-Bold.ttf",
+   "Arvo-BoldItalic.ttf"
+  ],
+  "folder": "Arvo",
+  "licence": "OFL.txt"
+ },
+ "Audiowide": {
+  "category": "display",
+  "files": [
+   "Audiowide-Regular.ttf"
+  ],
+  "folder": "Audiowide",
+  "licence": "OFL.txt"
+ },
+ "Bangers": {
+  "category": "display",
+  "files": [
+   "Bangers-Regular.ttf"
+  ],
+  "folder": "Bangers",
+  "licence": "OFL.txt"
+ },
+ "Barlow Condensed": {
+  "category": "sans",
+  "files": [
+   "BarlowCondensed-Regular.ttf",
+   "BarlowCondensed-Italic.ttf",
+   "BarlowCondensed-Bold.ttf",
+   "BarlowCondensed-BoldItalic.ttf"
+  ],
+  "folder": "Barlow_Condensed",
+  "licence": "OFL.txt"
+ },
+ "Bebas Neue": {
+  "category": "sans",
+  "files": [
+   "BebasNeue-Regular.ttf"
+  ],
+  "folder": "Bebas_Neue",
+  "licence": "OFL.txt"
+ },
+ "Bitter": {
+  "category": "serif",
+  "files": [
+   "Bitter-Regular.ttf",
+   "Bitter-Bold.ttf",
+   "Bitter-Italic.ttf",
+   "Bitter-BoldItalic.ttf"
+  ],
+  "folder": "Bitter",
+  "licence": "OFL.txt"
+ },
+ "Black Ops One": {
+  "category": "display",
+  "files": [
+   "BlackOpsOne-Regular.ttf"
+  ],
+  "folder": "Black_Ops_One",
+  "licence": "OFL.txt"
+ },
+ "Bodoni Moda": {
+  "category": "serif",
+  "files": [
+   "BodoniModa_72pt-Regular.ttf",
+   "BodoniModa_72pt-Bold.ttf",
+   "BodoniModa_72pt-Italic.ttf",
+   "BodoniModa_72pt-BoldItalic.ttf"
+  ],
+  "folder": "Bodoni_Moda",
+  "licence": "OFL.txt"
+ },
+ "Bungee": {
+  "category": "display",
+  "files": [
+   "Bungee-Regular.ttf"
+  ],
+  "folder": "Bungee",
+  "licence": "OFL.txt"
+ },
+ "Cardo": {
+  "category": "serif",
+  "files": [
+   "Cardo-Regular.ttf",
+   "Cardo-Italic.ttf",
+   "Cardo-Bold.ttf"
+  ],
+  "folder": "Cardo",
+  "licence": "OFL.txt"
+ },
+ "Caveat": {
+  "category": "script",
+  "files": [
+   "Caveat-Regular.ttf",
+   "Caveat-Bold.ttf"
+  ],
+  "folder": "Caveat",
+  "licence": "OFL.txt"
+ },
+ "Chewy": {
+  "category": "display",
+  "files": [
+   "Chewy-Regular.ttf"
+  ],
+  "folder": "Chewy",
+  "licence": "LICENSE.txt"
+ },
+ "Cinzel": {
+  "category": "serif",
+  "files": [
+   "Cinzel-Regular.ttf",
+   "Cinzel-Bold.ttf"
+  ],
+  "folder": "Cinzel",
+  "licence": "OFL.txt"
+ },
+ "Cinzel Decorative": {
+  "category": "serif",
+  "files": [
+   "CinzelDecorative-Regular.ttf",
+   "CinzelDecorative-Bold.ttf"
+  ],
+  "folder": "Cinzel_Decorative",
+  "licence": "OFL.txt"
+ },
+ "Cormorant Garamond": {
+  "category": "serif",
+  "files": [
+   "CormorantGaramond-Regular.ttf",
+   "CormorantGaramond-Bold.ttf",
+   "CormorantGaramond-Italic.ttf",
+   "CormorantGaramond-BoldItalic.ttf"
+  ],
+  "folder": "Cormorant_Garamond",
+  "licence": "OFL.txt"
+ },
+ "Courgette": {
+  "category": "script",
+  "files": [
+   "Courgette-Regular.ttf"
+  ],
+  "folder": "Courgette",
+  "licence": "OFL.txt"
+ },
+ "Creepster": {
+  "category": "display",
+  "files": [
+   "Creepster-Regular.ttf"
+  ],
+  "folder": "Creepster",
+  "licence": "OFL.txt"
+ },
+ "Crimson Text": {
+  "category": "serif",
+  "files": [
+   "CrimsonText-Regular.ttf",
+   "CrimsonText-Italic.ttf",
+   "CrimsonText-Bold.ttf",
+   "CrimsonText-BoldItalic.ttf"
+  ],
+  "folder": "Crimson_Text",
+  "licence": "OFL.txt"
+ },
+ "DM Serif Display": {
+  "category": "serif",
+  "files": [
+   "DMSerifDisplay-Regular.ttf",
+   "DMSerifDisplay-Italic.ttf"
+  ],
+  "folder": "DM_Serif_Display",
+  "licence": "OFL.txt"
+ },
+ "Dancing Script": {
+  "category": "script",
+  "files": [
+   "DancingScript-Regular.ttf",
+   "DancingScript-Bold.ttf"
+  ],
+  "folder": "Dancing_Script",
+  "licence": "OFL.txt"
+ },
+ "EB Garamond": {
+  "category": "serif",
+  "files": [
+   "EBGaramond-Regular.ttf",
+   "EBGaramond-Bold.ttf",
+   "EBGaramond-Italic.ttf",
+   "EBGaramond-BoldItalic.ttf"
+  ],
+  "folder": "EB_Garamond",
+  "licence": "OFL.txt"
+ },
+ "Exo 2": {
+  "category": "sans",
+  "files": [
+   "Exo2-Regular.ttf",
+   "Exo2-Bold.ttf",
+   "Exo2-Italic.ttf",
+   "Exo2-BoldItalic.ttf"
+  ],
+  "folder": "Exo_2",
+  "licence": "OFL.txt"
+ },
+ "Fjalla One": {
+  "category": "sans",
+  "files": [
+   "FjallaOne-Regular.ttf"
+  ],
+  "folder": "Fjalla_One",
+  "licence": "OFL.txt"
+ },
+ "Fraunces": {
+  "category": "serif",
+  "files": [
+   "Fraunces_72pt-Regular.ttf",
+   "Fraunces_72pt-Bold.ttf",
+   "Fraunces_72pt-Italic.ttf",
+   "Fraunces_72pt-BoldItalic.ttf"
+  ],
+  "folder": "Fraunces",
+  "licence": "OFL.txt"
+ },
+ "Fredoka": {
+  "category": "display",
+  "files": [
+   "Fredoka-Regular.ttf",
+   "Fredoka-Bold.ttf"
+  ],
+  "folder": "Fredoka",
+  "licence": "OFL.txt"
+ },
+ "Gloock": {
+  "category": "serif",
+  "files": [
+   "Gloock-Regular.ttf"
+  ],
+  "folder": "Gloock",
+  "licence": "OFL.txt"
+ },
+ "Great Vibes": {
+  "category": "script",
+  "files": [
+   "GreatVibes-Regular.ttf"
+  ],
+  "folder": "Great_Vibes",
+  "licence": "OFL.txt"
+ },
+ "Homemade Apple": {
+  "category": "script",
+  "files": [
+   "HomemadeApple-Regular.ttf"
+  ],
+  "folder": "Homemade_Apple",
+  "licence": "LICENSE.txt"
+ },
+ "IM Fell English": {
+  "category": "serif",
+  "files": [
+   "IMFellEnglish-Regular.ttf",
+   "IMFellEnglish-Italic.ttf"
+  ],
+  "folder": "IM_Fell_English",
+  "licence": "OFL.txt"
+ },
+ "Josefin Sans": {
+  "category": "sans",
+  "files": [
+   "JosefinSans-Regular.ttf",
+   "JosefinSans-Bold.ttf",
+   "JosefinSans-Italic.ttf",
+   "JosefinSans-BoldItalic.ttf"
+  ],
+  "folder": "Josefin_Sans",
+  "licence": "OFL.txt"
+ },
+ "Kanit": {
+  "category": "sans",
+  "files": [
+   "Kanit-Regular.ttf",
+   "Kanit-Italic.ttf",
+   "Kanit-Bold.ttf",
+   "Kanit-BoldItalic.ttf"
+  ],
+  "folder": "Kanit",
+  "licence": "OFL.txt"
+ },
+ "Kaushan Script": {
+  "category": "script",
+  "files": [
+   "KaushanScript-Regular.ttf"
+  ],
+  "folder": "Kaushan_Script",
+  "licence": "OFL.txt"
+ },
+ "League Spartan": {
+  "category": "sans",
+  "files": [
+   "LeagueSpartan-Regular.ttf",
+   "LeagueSpartan-Bold.ttf"
+  ],
+  "folder": "League_Spartan",
+  "licence": "OFL.txt"
+ },
+ "Libre Baskerville": {
+  "category": "serif",
+  "files": [
+   "LibreBaskerville-Regular.ttf",
+   "LibreBaskerville-Bold.ttf",
+   "LibreBaskerville-Italic.ttf",
+   "LibreBaskerville-BoldItalic.ttf"
+  ],
+  "folder": "Libre_Baskerville",
+  "licence": "OFL.txt"
+ },
+ "Libre Caslon Text": {
+  "category": "serif",
+  "files": [
+   "LibreCaslonText-Regular.ttf",
+   "LibreCaslonText-Italic.ttf",
+   "LibreCaslonText-Bold.ttf"
+  ],
+  "folder": "Libre_Caslon_Text",
+  "licence": "OFL.txt"
+ },
+ "Lobster": {
+  "category": "script",
+  "files": [
+   "Lobster-Regular.ttf"
+  ],
+  "folder": "Lobster",
+  "licence": "OFL.txt"
+ },
+ "Lora": {
+  "category": "serif",
+  "files": [
+   "Lora-Regular.ttf",
+   "Lora-Bold.ttf",
+   "Lora-Italic.ttf",
+   "Lora-BoldItalic.ttf"
+  ],
+  "folder": "Lora",
+  "licence": "OFL.txt"
+ },
+ "Luckiest Guy": {
+  "category": "display",
+  "files": [
+   "LuckiestGuy-Regular.ttf"
+  ],
+  "folder": "Luckiest_Guy",
+  "licence": "LICENSE.txt"
+ },
+ "Marcellus": {
+  "category": "serif",
+  "files": [
+   "Marcellus-Regular.ttf"
+  ],
+  "folder": "Marcellus",
+  "licence": "OFL.txt"
+ },
+ "MedievalSharp": {
+  "category": "display",
+  "files": [
+   "MedievalSharp-Regular.ttf"
+  ],
+  "folder": "MedievalSharp",
+  "licence": "OFL.txt"
+ },
+ "Merriweather": {
+  "category": "serif",
+  "files": [
+   "Merriweather_120pt-Regular.ttf",
+   "Merriweather_120pt-Bold.ttf",
+   "Merriweather_120pt-Italic.ttf",
+   "Merriweather_120pt-BoldItalic.ttf"
+  ],
+  "folder": "Merriweather",
+  "licence": "OFL.txt"
+ },
+ "Monoton": {
+  "category": "display",
+  "files": [
+   "Monoton-Regular.ttf"
+  ],
+  "folder": "Monoton",
+  "licence": "OFL.txt"
+ },
+ "Montserrat": {
+  "category": "sans",
+  "files": [
+   "Montserrat-Regular.ttf",
+   "Montserrat-Bold.ttf",
+   "Montserrat-Italic.ttf",
+   "Montserrat-BoldItalic.ttf"
+  ],
+  "folder": "Montserrat",
+  "licence": "OFL.txt"
+ },
+ "Mountains of Christmas": {
+  "category": "display",
+  "files": [
+   "MountainsofChristmas-Regular.ttf",
+   "MountainsofChristmas-Bold.ttf"
+  ],
+  "folder": "Mountains_of_Christmas",
+  "licence": "LICENSE.txt"
+ },
+ "Nosifer": {
+  "category": "display",
+  "files": [
+   "Nosifer-Regular.ttf"
+  ],
+  "folder": "Nosifer",
+  "licence": "OFL.txt"
+ },
+ "Nunito": {
+  "category": "sans",
+  "files": [
+   "Nunito-Regular.ttf",
+   "Nunito-Bold.ttf",
+   "Nunito-Italic.ttf",
+   "Nunito-BoldItalic.ttf"
+  ],
+  "folder": "Nunito",
+  "licence": "OFL.txt"
+ },
+ "Old Standard TT": {
+  "category": "serif",
+  "files": [
+   "OldStandardTT-Regular.ttf",
+   "OldStandardTT-Italic.ttf",
+   "OldStandardTT-Bold.ttf"
+  ],
+  "folder": "Old_Standard_TT",
+  "licence": "OFL.txt"
+ },
+ "Open Sans": {
+  "category": "sans",
+  "files": [
+   "OpenSans-Regular.ttf",
+   "OpenSans-Bold.ttf",
+   "OpenSans-Italic.ttf",
+   "OpenSans-BoldItalic.ttf"
+  ],
+  "folder": "Open_Sans",
+  "licence": "OFL.txt"
+ },
+ "Orbitron": {
+  "category": "display",
+  "files": [
+   "Orbitron-Regular.ttf",
+   "Orbitron-Bold.ttf"
+  ],
+  "folder": "Orbitron",
+  "licence": "OFL.txt"
+ },
+ "Oswald": {
+  "category": "sans",
+  "files": [
+   "Oswald-Regular.ttf",
+   "Oswald-Bold.ttf"
+  ],
+  "folder": "Oswald",
+  "licence": "OFL.txt"
+ },
+ "Pacifico": {
+  "category": "script",
+  "files": [
+   "Pacifico-Regular.ttf"
+  ],
+  "folder": "Pacifico",
+  "licence": "OFL.txt"
+ },
+ "Parisienne": {
+  "category": "script",
+  "files": [
+   "Parisienne-Regular.ttf"
+  ],
+  "folder": "Parisienne",
+  "licence": "OFL.txt"
+ },
+ "Permanent Marker": {
+  "category": "script",
+  "files": [
+   "PermanentMarker-Regular.ttf"
+  ],
+  "folder": "Permanent_Marker",
+  "licence": "LICENSE.txt"
+ },
+ "Philosopher": {
+  "category": "sans",
+  "files": [
+   "Philosopher-Regular.ttf",
+   "Philosopher-Italic.ttf",
+   "Philosopher-Bold.ttf",
+   "Philosopher-BoldItalic.ttf"
+  ],
+  "folder": "Philosopher",
+  "licence": "OFL.txt"
+ },
+ "Pinyon Script": {
+  "category": "script",
+  "files": [
+   "PinyonScript-Regular.ttf"
+  ],
+  "folder": "Pinyon_Script",
+  "licence": "OFL.txt"
+ },
+ "Pirata One": {
+  "category": "display",
+  "files": [
+   "PirataOne-Regular.ttf"
+  ],
+  "folder": "Pirata_One",
+  "licence": "OFL.txt"
+ },
+ "Playfair Display": {
+  "category": "serif",
+  "files": [
+   "PlayfairDisplay-Regular.ttf",
+   "PlayfairDisplay-Bold.ttf",
+   "PlayfairDisplay-Italic.ttf",
+   "PlayfairDisplay-BoldItalic.ttf"
+  ],
+  "folder": "Playfair_Display",
+  "licence": "OFL.txt"
+ },
+ "Poppins": {
+  "category": "sans",
+  "files": [
+   "Poppins-Regular.ttf",
+   "Poppins-Italic.ttf",
+   "Poppins-Bold.ttf",
+   "Poppins-BoldItalic.ttf"
+  ],
+  "folder": "Poppins",
+  "licence": "OFL.txt"
+ },
+ "Prata": {
+  "category": "serif",
+  "files": [
+   "Prata-Regular.ttf"
+  ],
+  "folder": "Prata",
+  "licence": "OFL.txt"
+ },
+ "Press Start 2P": {
+  "category": "display",
+  "files": [
+   "PressStart2P-Regular.ttf"
+  ],
+  "folder": "Press_Start_2P",
+  "licence": "OFL.txt"
+ },
+ "Quicksand": {
+  "category": "sans",
+  "files": [
+   "Quicksand-Regular.ttf",
+   "Quicksand-Bold.ttf"
+  ],
+  "folder": "Quicksand",
+  "licence": "OFL.txt"
+ },
+ "Raleway": {
+  "category": "sans",
+  "files": [
+   "Raleway-Regular.ttf",
+   "Raleway-Bold.ttf",
+   "Raleway-Italic.ttf",
+   "Raleway-BoldItalic.ttf"
+  ],
+  "folder": "Raleway",
+  "licence": "OFL.txt"
+ },
+ "Righteous": {
+  "category": "sans",
+  "files": [
+   "Righteous-Regular.ttf"
+  ],
+  "folder": "Righteous",
+  "licence": "OFL.txt"
+ },
+ "Roboto": {
+  "category": "sans",
+  "files": [
+   "Roboto-Regular.ttf",
+   "Roboto-Bold.ttf",
+   "Roboto-Italic.ttf",
+   "Roboto-BoldItalic.ttf"
+  ],
+  "folder": "Roboto",
+  "licence": "OFL.txt"
+ },
+ "Roboto Slab": {
+  "category": "serif",
+  "files": [
+   "RobotoSlab-Regular.ttf",
+   "RobotoSlab-Bold.ttf"
+  ],
+  "folder": "Roboto_Slab",
+  "licence": "LICENSE.txt"
+ },
+ "Rock Salt": {
+  "category": "script",
+  "files": [
+   "RockSalt-Regular.ttf"
+  ],
+  "folder": "Rock_Salt",
+  "licence": "LICENSE.txt"
+ },
+ "Rozha One": {
+  "category": "serif",
+  "files": [
+   "RozhaOne-Regular.ttf"
+  ],
+  "folder": "Rozha_One",
+  "licence": "OFL.txt"
+ },
+ "Rye": {
+  "category": "display",
+  "files": [
+   "Rye-Regular.ttf"
+  ],
+  "folder": "Rye",
+  "licence": "OFL.txt"
+ },
+ "Sacramento": {
+  "category": "script",
+  "files": [
+   "Sacramento-Regular.ttf"
+  ],
+  "folder": "Sacramento",
+  "licence": "OFL.txt"
+ },
+ "Satisfy": {
+  "category": "script",
+  "files": [
+   "Satisfy-Regular.ttf"
+  ],
+  "folder": "Satisfy",
+  "licence": "LICENSE.txt"
+ },
+ "Shadows Into Light": {
+  "category": "script",
+  "files": [
+   "ShadowsIntoLight-Regular.ttf"
+  ],
+  "folder": "Shadows_Into_Light",
+  "licence": "OFL.txt"
+ },
+ "Sorts Mill Goudy": {
+  "category": "serif",
+  "files": [
+   "SortsMillGoudy-Regular.ttf",
+   "SortsMillGoudy-Italic.ttf"
+  ],
+  "folder": "Sorts_Mill_Goudy",
+  "licence": "OFL.txt"
+ },
+ "Special Elite": {
+  "category": "display",
+  "files": [
+   "SpecialElite-Regular.ttf"
+  ],
+  "folder": "Special_Elite",
+  "licence": "LICENSE.txt"
+ },
+ "Spectral": {
+  "category": "serif",
+  "files": [
+   "Spectral-Regular.ttf",
+   "Spectral-Italic.ttf",
+   "Spectral-Bold.ttf",
+   "Spectral-BoldItalic.ttf"
+  ],
+  "folder": "Spectral",
+  "licence": "OFL.txt"
+ },
+ "Staatliches": {
+  "category": "sans",
+  "files": [
+   "Staatliches-Regular.ttf"
+  ],
+  "folder": "Staatliches",
+  "licence": "OFL.txt"
+ },
+ "Tangerine": {
+  "category": "script",
+  "files": [
+   "Tangerine-Regular.ttf",
+   "Tangerine-Bold.ttf"
+  ],
+  "folder": "Tangerine",
+  "licence": "OFL.txt"
+ },
+ "Teko": {
+  "category": "sans",
+  "files": [
+   "Teko-Regular.ttf",
+   "Teko-Bold.ttf"
+  ],
+  "folder": "Teko",
+  "licence": "OFL.txt"
+ },
+ "Uncial Antiqua": {
+  "category": "display",
+  "files": [
+   "UncialAntiqua-Regular.ttf"
+  ],
+  "folder": "Uncial_Antiqua",
+  "licence": "OFL.txt"
+ },
+ "UnifrakturMaguntia": {
+  "category": "display",
+  "files": [
+   "UnifrakturMaguntia-Regular.ttf"
+  ],
+  "folder": "UnifrakturMaguntia",
+  "licence": "OFL.txt"
+ },
+ "Vollkorn": {
+  "category": "serif",
+  "files": [
+   "Vollkorn-Regular.ttf",
+   "Vollkorn-Bold.ttf",
+   "Vollkorn-Italic.ttf",
+   "Vollkorn-BoldItalic.ttf"
+  ],
+  "folder": "Vollkorn",
+  "licence": "OFL.txt"
+ },
+ "Work Sans": {
+  "category": "sans",
+  "files": [
+   "WorkSans-Regular.ttf",
+   "WorkSans-Bold.ttf",
+   "WorkSans-Italic.ttf",
+   "WorkSans-BoldItalic.ttf"
+  ],
+  "folder": "Work_Sans",
+  "licence": "OFL.txt"
+ },
+ "Yeseva One": {
+  "category": "serif",
+  "files": [
+   "YesevaOne-Regular.ttf"
+  ],
+  "folder": "Yeseva_One",
+  "licence": "OFL.txt"
+ },
+ "Zilla Slab": {
+  "category": "serif",
+  "files": [
+   "ZillaSlab-Regular.ttf",
+   "ZillaSlab-Italic.ttf",
+   "ZillaSlab-Bold.ttf",
+   "ZillaSlab-BoldItalic.ttf"
+  ],
+  "folder": "Zilla_Slab",
+  "licence": "OFL.txt"
+ }
+}
