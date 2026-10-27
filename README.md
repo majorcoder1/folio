@@ -168,3 +168,9 @@ Made by 4ThePeople Media. Copyright (C) 2026 Aaron McCreery.
 Folio is free software under the GNU General Public License, version 3.
 See [LICENSE](LICENSE). The bundled fonts keep their own licences
 (SIL Open Font License or Apache 2.0), stored next to each font.
+
+## Support
+
+This project is free and open source. If it is useful to you, you can support my work with a donation:
+
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/majorcoder1/donate)
